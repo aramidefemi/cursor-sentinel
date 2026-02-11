@@ -1,5 +1,8 @@
 # Cursor Framework Global Rules
 
+## How to use
+git clone https://github.com/aramidefemi/cursor-sentinel .cursor
+
 ## Core Rules
 - Always label findings as `Blocker`, `Major`, or `Minor`.
 - `Minor` issues may be logged and skipped when they do not affect safety, correctness, or acceptance criteria.
